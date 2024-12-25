@@ -53,19 +53,4 @@ The models are evaluated using the following metrics:
 - **Recall**: The proportion of true positives among all actual positives.
 - **F1-Score**: The harmonic mean of precision and recall, giving a balanced measure of performance.
 - **Confusion Matrix**: A matrix showing the true and predicted classifications.
-- **ROC Curve & AUC**: A plot illustrating the model’s ability to distinguish between classes across different thresholds.
-
-## Visualizations
-
-### 1. Fraud Distribution
-A pie chart showing the distribution of fraudulent vs non-fraudulent transactions.
-
-### 2. Fraud Transaction Categories
-A bar plot displaying the distribution of fraud across different transaction categories.
-
-### 3. ROC Curve
-The **Receiver Operating Characteristic** curve shows the trade-off between true positive rate and false positive rate for different thresholds.
-
-### 4. Confusion Matrix
-A confusion matrix visualizes the model's performance, showing counts of true positives, true negatives, false positives, and false negatives.
 
